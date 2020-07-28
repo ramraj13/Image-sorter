@@ -2,7 +2,7 @@ import os
 import sys
 import random
 
-actress_list=[b'E:\New folder\Kareena Kapoor',b'E:\New folder\Shraddha Kapoor',b'E:\New folder\Sonakshi Sinha']
+actress_list=[b'E:\New folder\Kareena Kapoor',b'E:\New folder\Shraddha Kapoor',b'E:\New folder\Sonakshi Sinha',b'E:\New folder\Bollywood Fakes']
 length=len(actress_list)
 
 #print((actress_list[2]).decode('utf-8'))
