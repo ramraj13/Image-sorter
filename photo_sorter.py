@@ -28,7 +28,7 @@ def open_folder(list):
                 g.write(data)
                 count+=1
 
-        g.close()
+        g.close() 
         f.close()
 
 def select(list):
